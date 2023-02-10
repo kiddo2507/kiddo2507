@@ -5,8 +5,6 @@
 
 ## About :sunglasses:
 
-B.tech 3rd year Computer Science student. Passionate about writing code, solving problems, automating stuff, and building software.
-
 - 🔭 I’m currently a CSE student at Bennett University, Noida.
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, JavaScript, DSA**
