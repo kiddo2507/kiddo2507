@@ -1,56 +1,85 @@
-<h1 align="center">Hi 👋, I'm Yelisetty Priya Nagasai</h1>
-<h3 align="center">AIML learner and Flutter developer</h3>
+<h1 align="center">Hi 👋, I'm Priya Nagasai</h1>
 
-<img align="right" alt="hi" width="400" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif">
+<h3 align="center">
+Product-minded Engineer • AI/ML Enthusiast • Full Stack Developer
+</h3>
 
-## About :sunglasses:
-
-- 🔭 I’m currently a CSE student at Bennett University, Noida.
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, JavaScript, DSA**
-
-- 💬 Ask me about **Flutter, basics of Python**
-
-- 👯 I’m looking for an internship in Machine Learning or Deep Learning. 
-
-- 📫 Contact me: **priyayelisetty25@gmail.com**
-
-## Languages and Tools:🛠️
-
-<p align="left" > 
-  <h5>Languages/ Frameworks:</h5>
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  
-  <h5>Libraries for AIML:</h5>
-  
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  
-  <h5>Web Development related:</h5>
-  
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  
-  <h5>Miscellaneous:</h5>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<p align="center">
+Building meaningful digital experiences through product thinking, development, and AI-driven solutions.
 </p>
-   
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiddo2507&theme=radical&title_color=8E2DE2&text_color=fff">
-<br></br>
-<img src="https://github-readme-stats.vercel.app/api?username=kiddo2507&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif">
+
+# ✨ About Me
+
+- 💼 Associate Software Engineer at Accenture  
+- 📦 Working on SAP Data Migration, enterprise workflows, and stakeholder coordination  
+- 🚀 Transitioning into Product Management with a strong engineering foundation  
+- 🧠 Interested in Product Strategy, AI/ML, User Experience, and scalable systems  
+- 🛠️ Building projects across Product, Development, and AI/ML  
+- 🌱 Currently exploring Product Thinking, System Design, and Recommendation Systems  
+- 💬 Ask me about **Product Management, Flutter, Next.js, AI/ML, SAP, Firebase**  
+- 📫 Reach me at: **yelisettypriyanagasai@gmail.com**
+
+---
+
+# 🚀 Featured Projects
+
+### ❄️ The Cold Box
+AI-powered smart inventory & food expiry management system designed to reduce household food waste.
+
+### 📌 Prics
+Pinterest-style image discovery platform with personalized recommendations and user-centric engagement strategies.
+
+### 😴 Drowsiness Detection System
+Computer vision-based real-time driver drowsiness detection system using AI/ML.
+
+---
+
+# 🛠️ Tech Stack
+
+## Product & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Product_Thinking-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+## Development
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+## AI / ML
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNN-9333EA?style=for-the-badge"/>
+</p>
+
+# 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/yelisetty-priya-nagasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yelisetty Priya | LinkedIn" height="30" width="40" /></a>
-</a>
+  <a href="https://linkedin.com/in/yelisetty-priya-nagasai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yelisettypriyanagasai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Building products that blend technology, usability, and real-world impact.
 </p>
